@@ -1,0 +1,6 @@
+@Spireon.API_HostAddress = http://localhost:5049
+
+GET {{Spireon.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
